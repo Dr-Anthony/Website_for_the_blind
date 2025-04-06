@@ -1,0 +1,7 @@
+flask
+PyAudio
+pyttsx3
+flask-SQLAlchnmy
+Speech Recongnition
+Flask WTF
+Flask login
